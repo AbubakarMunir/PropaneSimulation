@@ -1,0 +1,32 @@
+# Unity generated
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Ll]ibrary/
+[Ll]ocal[Cc]ache/
+[Oo]bj/
+[Oo]bj[Ss]hare/
+Assets/AssetStoreTools*
+
+# VSCode generated
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.suo
+*.pidb
+*.pdb
+*.opendb
+*.VC.db
+
+# Miscellaneous
+Thumbs.db
+.DS_Store
+*.meta
+*.mat
+*.unitypackage
+*.pdf
+*.zip
+*.gz
+*.log
